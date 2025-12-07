@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/voicely/__init__.py
+src/voicely/code.py
+src/voicely/translation.py
+src/voicely/utils.py
+src/voicely.egg-info/PKG-INFO
+src/voicely.egg-info/SOURCES.txt
+src/voicely.egg-info/dependency_links.txt
+src/voicely.egg-info/top_level.txt
