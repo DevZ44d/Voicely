@@ -43,5 +43,4 @@ class Audio:
         ).get()
 
 
-x = Audio(audio="audio.mp3", Translation_To="ru")
-print(x.start())
+
