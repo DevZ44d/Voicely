@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" width="300" src="https://github.com/user-attachments/assets/8cc5443d-4108-4cba-ad9d-c9bf327dec32" />
+    <img align="center" width="300" src="https://github.com/user-attachments/assets/1805d349-d03a-4087-aeca-2ed57a1b133a" />
     <h3 align="center"></h3>
 </p>
 
@@ -88,4 +88,5 @@ print(Translation("ar", "hello").get())
 
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
+
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
