@@ -20,7 +20,7 @@
 <p align="center">
 
   <a href="https://pepy.tech/projects/voicely/">
-    <img src="https://static.pepy.tech/badge/voicely">
+    <img src="https://static.pepy.tech/personalized-badge/voicely?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads">
   </a>
 
   <a href="https://github.com/DevZ44d/voicely?tab=MIT-1-ov-file">
@@ -90,4 +90,5 @@ print(Translation("ar", "hello").get())
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+
 
