@@ -28,8 +28,9 @@
   </a>
 </p>
 
+
 ### 📘 voicely — Audio-to-Text + Translation for Python
-> **voicely** is a lightweight Python library that converts audio files → text and optionally translates the extracted text .
+> **Voicely** is a lightweight Python library that converts audio files → text and optionally translates the extracted text .
 
 ### 🚀 Features
 - 🎤 Audio → Text .
@@ -48,7 +49,6 @@
 - Clone the project:
 ```shell
 git clone https://github.com/DevZ44d/voicely.git
-cd voicely
 ```
 
 - Via PyPi
@@ -73,22 +73,27 @@ if __name__ == '__main__':
   main()
 ```
 
-- 📝 Output Example
-```text
-مرحبا كيف حالك ؟
-```
-
 ### Class Translation
 
 - Simple Google Translate wrapper.
 ```python
 from voicely.translation import Translation
-print(Translation("ar", "hello").get())
+T: str = Translation("ar" , "Hello, How are you ?")
+# ar → arabic , en → english , ...
+print(T["Text"])
+# or
+print(T.get())
+```
+
+- 📝 Output Example
+```text
+مرحبا, كيف حالك ؟
 ```
 
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
-
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+- For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+
 
 
