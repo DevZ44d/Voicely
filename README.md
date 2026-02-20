@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://github.com/DevZ44d/voicely?tab=MIT-1-ov-file">
-    <img src="https://camo.githubusercontent.com/30aa09995ff273a3a2a8abf7c116c6fadfb4737b6aac74fe8dcb03e93d855fef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7a3434642f79746d757369632d626f74">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg">
   </a>
 </p>
 
@@ -94,6 +94,7 @@ print(T.get())
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+
 
 
 
